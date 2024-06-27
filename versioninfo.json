@@ -1,0 +1,43 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "FileFlagsMask": "3f",
+        "FileFlags ": "00",
+        "FileOS": "040004",
+        "FileType": "01",
+        "FileSubType": "00"
+    },
+    "StringFileInfo": {
+        "Comments": "可以強制覆蓋msedge.exe",
+        "CompanyName": "",
+        "FileDescription": "",
+        "FileVersion": "v1.0.0.0",
+        "InternalName": "硬碟版Chrome",
+        "LegalCopyright": "",
+        "LegalTrademarks": "",
+        "OriginalFilename": "",
+        "PrivateBuild": "",
+        "ProductName": "ChromePath",
+        "ProductVersion": "v1.0.0.0",
+        "SpecialBuild": ""
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "0804",
+            "CharsetID": "04B0"
+        }
+    },
+    "IconPath": "icon.ico",
+    "ManifestPath": ""
+}
